@@ -1,0 +1,2 @@
+Deploying it on gcp
+https://www.artefact.com/blog/how-to-deploy-and-secure-your-streamlit-app-on-gcp/
